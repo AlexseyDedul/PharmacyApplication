@@ -1,0 +1,32 @@
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\bin\Debug\AppPharmacesOfCity.exe.config
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\bin\Debug\AppPharmacesOfCity.exe
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\bin\Debug\AppPharmacesOfCity.pdb
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.csprojResolveAssemblyReference.cache
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.Properties.Resources.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.csproj.GenerateResource.Cache
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.csproj.CoreCompileInputs.cache
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.exe
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.pdb
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.MainWindow.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.PharmacyEdit.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.MedicinesEdit.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.UserEdit.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.ExistMedEdit.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.TherapyEdit.resources
+C:\Users\HPAdmin\Documents\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.Authintification.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\bin\Debug\AppPharmacesOfCity.exe.config
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\bin\Debug\AppPharmacesOfCity.exe
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\bin\Debug\AppPharmacesOfCity.pdb
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.csprojResolveAssemblyReference.cache
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.Authintification.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.ExistMedEdit.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.MainWindow.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.MedicinesEdit.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.PharmacyEdit.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.Properties.Resources.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.TherapyEdit.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.UserEdit.resources
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.csproj.GenerateResource.Cache
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.csproj.CoreCompileInputs.cache
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.exe
+C:\Users\HPAdmin\Desktop\учеба\2 курс 2 семестр\ОСБД\курсач\AppPharmacesOfCity\AppPharmacesOfCity\obj\Debug\AppPharmacesOfCity.pdb
